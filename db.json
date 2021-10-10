@@ -1,8 +1,89 @@
 {
-  "response":[
-    {
-      "id": 1,
-      "title": "Post 1"
-    }
-  ]
+    "response":[
+        {
+            "name:":"CDMX",
+            "arrival_date":"2021-11-15",
+            "departure_date":"2021-11-30",
+            "day_route":[
+                {
+                    "date":"2021-11-15",
+                    "estimated_departure_time":"06:00",
+                    "landmarks":[
+                        {
+                            "name":"Hotel Astor",
+                            "coordinates":[
+                                "19.4348193",
+                                "-99.1601999"
+                            ],
+                            "visited":false,
+                            "visit_type":"other",
+                            "time_spent":1,
+                            "arrival_time":"8:00"
+                        },
+                        {
+                            "name":"Museo de cera",
+                            "coordinates":[
+                                "19.4285273",
+                                "-99.1571288"
+                            ],
+                            "visited":false,
+                            "visit_type":"travel",
+                            "time_spent":4,
+                            "estimated_arrival_time":"9:00"
+                        },
+                        {
+                            "name":"El cardenal",
+                            "coordinates":[
+                                "19.4357281",
+                                "-99.1386361"
+                            ],
+                            "visited":false,
+                            "visit_type":"food",
+                            "time_spent":2,
+                            "estimated_arrival_time":"13:00"
+                        },
+                        {
+                            "name":"Museo de la Tortura",
+                            "coordinates":[
+                                "19.435688",
+                                "-99.1386361"
+                            ],
+                            "visited":false,
+                            "visit_type":"travel",
+                            "time_spent":3,
+                            "estimated_arrival_time":"15:00"
+                        }
+                    ]
+                },
+                {
+                    "date":"2021-11-16",
+                    "estimated_departure_time":"09:00",
+                    "landmarks":[
+                        {
+                            "name":"Hotel AStor",
+                            "coordinates":[
+                                "19.4348193",
+                                "-99.1601999"
+                            ],
+                            "visited":false,
+                            "visit_type":"other",
+                            "time_spent":1,
+                            "arrival_time":"8:00"
+                        },
+                        {
+                            "name":"Zoológico de Chapultepec",
+                            "coordinates":[
+                                "19.4232135",
+                                "-99.1917143"
+                            ],
+                            "visited":false,
+                            "visit_type":"travel",
+                            "time_spent":4,
+                            "estimated_arrival_time":"09:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
