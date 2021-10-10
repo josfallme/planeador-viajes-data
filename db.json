@@ -58,7 +58,7 @@
             "estimated_departure_time":"09:00",
             "landmarks":[
                 {
-                    "name":"Hotel AStor",
+                    "name":"Hotel Astor",
                     "coordinates":[
                         "19.4348193",
                         "-99.1601999"
@@ -69,7 +69,7 @@
                     "arrival_time":"8:00"
                 },
                 {
-                    "name":"Zoológico de Chapultepec",
+                    "name":"Zoologico de Chapultepec",
                     "coordinates":[
                         "19.4232135",
                         "-99.1917143"
