@@ -1,5 +1,4 @@
 {
-    "name": "CDMX",
-    "arrival_date": "2021-11-15",
-    "departure_date": "2021-11-30"
+  "id": 1,
+  "title": "Post 1"
 }
