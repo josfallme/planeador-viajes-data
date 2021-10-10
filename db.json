@@ -1,5 +1,5 @@
 {
     "name": "CDMX",
-    "arrivalDate": "2021-11-15",
-    "departureDate": "2021-11-30"
+    "arrival_date": "2021-11-15",
+    "departure_date": "2021-11-30"
 }
