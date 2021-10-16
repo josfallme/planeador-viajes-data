@@ -18,7 +18,7 @@
                                 "19.4348193",
                                 "-99.1601999"
                             ],
-                            "visited":false,
+                            "visited":true,
                             "visit_type":"other",
                             "time_spent":1,
                             "arrival_time":"8:00"
@@ -30,7 +30,7 @@
                                 "19.4285273",
                                 "-99.1571288"
                             ],
-                            "visited":false,
+                            "visited":true,
                             "visit_type":"travel",
                             "time_spent":4,
                             "estimated_arrival_time":"9:00"
