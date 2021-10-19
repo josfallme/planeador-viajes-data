@@ -2,7 +2,7 @@
     "response":[
   {
     "id": 1,
-    "name:": "CDMX",
+    "name": "CDMX",
     "arrival_date": "2021-11-15",
     "departure_date": "2021-11-30",
     "day_route": [
@@ -96,7 +96,7 @@
   },
   {
     "id": 2,
-    "name:": "MyTravel",
+    "name": "MyTravel",
     "arrival_date": "2021-12-15",
     "departure_date": "2021-12-30",
     "day_route": [
